@@ -1,0 +1,17 @@
+.header-content {
+  background-color: black;
+  min-height: 75vh;
+  flex-direction: column;
+  background: linear-gradient(rgba(141, 39, 174, 0.3), rgba(39, 174, 59, 0.5)),
+    url("../../images/pic9.jpg") center/cover no-repeat;
+}
+
+.header-title {
+  font-size: 5.2rem;
+}
+.header-text {
+  margin-top: 2.8rem;
+  margin-bottom: 2.8rem;
+  opacity: 0.8;
+  max-width: 770px;
+}
